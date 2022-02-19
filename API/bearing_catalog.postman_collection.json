@@ -1,0 +1,938 @@
+{
+	"info": {
+		"_postman_id": "6ddc3e84-d298-4279-bebc-52e36c2a7250",
+		"name": "bearing_catalog",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "BearingCatalog",
+			"item": [
+				{
+					"name": "GetAdapterassembliesshperical",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetAdapterassembliesshperical",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetAdapterassembliesshperical"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetAdapterassemlies",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetAdapterassemlies",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetAdapterassemlies"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetCombinedneedlemetricseries",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetCombinedneedlemetricseries",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetCombinedneedlemetricseries"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetCombinedneedlemetricseries2",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetCombinedneedlemetricseries2",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetCombinedneedlemetricseries2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetDoubledirectionthrust",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetDoubledirectionthrust",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetDoubledirectionthrust"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetDoublerowcontactball",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetDoublerowcontactball",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetDoublerowcontactball"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetDoublerowcylidrical",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetDoublerowcylidrical",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetDoublerowcylidrical"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetDoublerowdeepgroove",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetDoublerowdeepgroove",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetDoublerowdeepgroove"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetDrawcupneedleinchseries",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetDrawcupneedleinchseries",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetDrawcupneedleinchseries"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetDrawcupneedlemetricseries",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetDrawcupneedlemetricseries",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetDrawcupneedlemetricseries"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetExtendedinnerringtype",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetExtendedinnerringtype",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetExtendedinnerringtype"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetExtrasmallminiatureballbearings",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetExtrasmallminiatureballbearings",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetExtrasmallminiatureballbearings"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetFlangedtype",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetFlangedtype",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetFlangedtype"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetHeavydutyneedleinchseries",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetHeavydutyneedleinchseries",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetHeavydutyneedleinchseries"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetHeavydutyneedleinnerrings",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetHeavydutyneedleinnerrings",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetHeavydutyneedleinnerrings"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetHeavydutyneedlemetricseries",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetHeavydutyneedlemetricseries",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetHeavydutyneedlemetricseries"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetMatchedpair",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetMatchedpair",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetMatchedpair"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetMiniatureonewayclutches",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetMiniatureonewayclutches",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetMiniatureonewayclutches"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetNeedlerollermetricseries",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetNeedlerollermetricseries",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetNeedlerollermetricseries"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetNeedlerollermetricseries2",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetNeedlerollermetricseries2",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetNeedlerollermetricseries2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetNeedlerollerthrustinchseries",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetNeedlerollerthrustinchseries",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetNeedlerollerthrustinchseries"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetNeedlerollerthrustmetricseries",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetNeedlerollerthrustmetricseries",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetNeedlerollerthrustmetricseries"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetNeedlerollerthrustmetricseries2",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetNeedlerollerthrustmetricseries2",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetNeedlerollerthrustmetricseries2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetRadialneedleinchseries",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetRadialneedleinchseries",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetRadialneedleinchseries"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetRadialneedlemetricseries",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetRadialneedlemetricseries",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetRadialneedlemetricseries"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetSelfaligningopentype",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetSelfaligningopentype",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetSelfaligningopentype"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetSelfaligningsealedtype",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetSelfaligningsealedtype",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetSelfaligningsealedtype"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetSerialnoindex",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetSerialnoindex",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetSerialnoindex"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetSingledirctionthrust",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetSingledirctionthrust",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetSingledirctionthrust"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetSinglerowcontactball",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetSinglerowcontactball",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetSinglerowcontactball"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetSinglerowcylindrical",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetSinglerowcylindrical",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetSinglerowcylindrical"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Getsinglerowinchseries",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/Getsinglerowinchseries",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"Getsinglerowinchseries"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetSinglerowmetricseries",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetSinglerowmetricseries",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetSinglerowmetricseries"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetSinglerowopentype",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetSinglerowopentype",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetSinglerowopentype"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetSinglerowsealedtype",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetSinglerowsealedtype",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetSinglerowsealedtype"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetSinglerowsnapringgroovetype",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetSinglerowsnapringgroovetype",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetSinglerowsnapringgroovetype"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetSphericalrollerbearings",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetSphericalrollerbearings",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetSphericalrollerbearings"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetTditype",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetTditype",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetTditype"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetTdotype",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetTdotype",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetTdotype"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetThrustcollars",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetThrustcollars",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetThrustcollars"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetWithdrawalsleeves",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetWithdrawalsleeves",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetWithdrawalsleeves"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetGetsphericalthrustroller",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.getbiz.app/bearing-catalogue/api/GetGetsphericalthrustroller",
+							"protocol": "https",
+							"host": [
+								"api",
+								"getbiz",
+								"app"
+							],
+							"path": [
+								"bearing-catalogue",
+								"api",
+								"GetGetsphericalthrustroller"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
